@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>test5.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>1E7A41853DD7563E5EB5ABFDB20F41B64A1D604E</string>
+				<key>dateExpires</key>
+				<string>2019/11/30</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>4RVHPW58GW.org.reactjs.native.example.test5</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>4RVHPW58GW</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>4RVHPW58GW.org.reactjs.native.example.test5</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>test5.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>c20230de-32ab-4a84-a870-681588f12594</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: *</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>4RVHPW58GW</string>
+				<key>name</key>
+				<string>zhifeng wang</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
